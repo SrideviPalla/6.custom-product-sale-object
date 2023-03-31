@@ -1,0 +1,4 @@
+Sales before removal: [Sale@147f0, Sale@78a0cbec, Sale@24983b]
+Sale with Tea removed successfully.
+Sales after removal: [Sale@78a0cbec, Sale@24983b]
+PS C:\Users\sride\OneDrive\Documents\Java> 
